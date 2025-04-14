@@ -1,0 +1,26 @@
+{
+  "name": "clonedisney",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/suricatstar/cloneDisney#readme",
+  "bugs": {
+    "url": "https://github.com/suricatstar/cloneDisney/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suricatstar/cloneDisney.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.86.3"
+  }
+}
